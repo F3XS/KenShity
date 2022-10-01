@@ -1,4 +1,7 @@
-![Violen_Hub](https://user-images.githubusercontent.com/103441440/193428414-5c349330-2f8e-4588-9393-02e6a1adede5.png)
+<img src="icon.png" align="right" />
+
+# Awesome README [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
+> A curated list of awesome READMEs
 
 ### Background: 
 Violen-Hub was created on Sept 4 It was created by Hippoppo#0001, Violen-Hub Is a Paid and free scripts
