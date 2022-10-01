@@ -4,10 +4,10 @@ Background:
 Violen-Hub was created on Sept 4 It was created by Hippoppo#0001, Violen-Hub Is a Paid and free scripts
 
 Supported Games:
-Kentucky - Released | Paid
-Tower Of Hell - In dev | Free
-Hoopz - In dev | Paid - Free
-Universal Script | Free
+- Kentucky - Released | Paid
+- Tower Of Hell - In dev | Free
+- Hoopz - In dev | Paid - Free
+- Universal Script | Free
 
 
 Why to chose Violen hub?
