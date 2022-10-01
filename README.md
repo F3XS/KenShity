@@ -1,6 +1,7 @@
 <img src="icon.png" align="right" />
 
-# Violen Hub [![Subscribe](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]([https://www.youtube.com/channel/UCQT6KNQY-psQmyiRCoYu2SQ])
+# Violen Hub [![Subscribe](https://www.youtube.com/channel/UCQT6KNQY-psQmyiRCoYu2SQ)
+]([https://www.youtube.com/channel/UCQT6KNQY-psQmyiRCoYu2SQ])
 > By Chixs
 
 ### Background: 
