@@ -10,10 +10,19 @@ Hoopz - In dev | Paid - Free
 Universal Script | Free
 
 
-On going features:
-Kentucky | Team Changer | Anti Cheat bypass | More ETC.
-Tower Of Hell | AutoFarm | Anti Cheat Bypass | Get all Tools | More ETC.
-Hoopz | Aimbot | Reach | Auto Guard | More ETC.
-Universal Script | Walk Speed Changer | Aimbot | SilentAim | Visuals | More ETC.
+Why to chose Violen hub?
 
-About Violen Hub
+Violen hub is an  hub where you scripts are paid and free. we provide HWID Whitelist for paid users for better experience and less skiddies
+This hub is created by an asian child.
+
+About me?
+Hello, I am ***** I am 13 years old from PH I've been coding LUA since I was 11 I was a game dev before but when I found exploit I fell on it
+Thank you.
+
+
+
+How to buy Violen hub?:
+
+DM: Hippoppo#0001
+No discord server I am still making it
+
