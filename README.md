@@ -1,7 +1,7 @@
 <img src="icon.png" align="right" />
 
-# Awesome README [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
-> Violen-Hub
+# Violen Hub [![Subscribe](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]([https://github.com/sindresorhus/awesome#readme](https://www.youtube.com/channel/UCQT6KNQY-psQmyiRCoYu2SQ))
+> By Chixs
 
 ### Background: 
 Violen-Hub was created on Sept 4 It was created by Hippoppo#0001, Violen-Hub Is a Paid and free scripts
