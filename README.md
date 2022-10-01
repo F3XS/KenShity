@@ -1,8 +1,7 @@
 <img src="icon.png" align="right" />
 
-# Violen Hub [![Subscribe](https://www.youtube.com/channel/UCQT6KNQY-psQmyiRCoYu2SQ)
-]([https://www.youtube.com/channel/UCQT6KNQY-psQmyiRCoYu2SQ])
-> By Chixs
+# Violen-Hub [![Violen](https://media.discordapp.net/attachments/1021057353073840140/1025879447154470943/Violen_Hub.png?width=201&height=34)](https://github.com/sindresorhus/awesome#readme)
+> A curated list of awesome READMEs
 
 ### Background: 
 Violen-Hub was created on Sept 4 It was created by Hippoppo#0001, Violen-Hub Is a Paid and free scripts
