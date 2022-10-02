@@ -26,5 +26,6 @@ Thank you.
 ### How to buy Violen hub?:
 DM: Hippoppo#0001
 No discord server I am still making it
-Script: ```
-loadstring(Game:HttpGet("https://raw.githubusercontent.com/F3XS/KenShity/main/KenShityDestroyer.lua"))()```
+Script:
+- Legacy Version```loadstring(Game:HttpGet("https://raw.githubusercontent.com/F3XS/KenShity/main/KenShityDestroyer.lua"))()```
+- New Version ```loadstring(Game:HttpGet("https://raw.githubusercontent.com/F3XS/KenShity/main/ViolenHubNew"))()```
