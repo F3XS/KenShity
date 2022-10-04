@@ -15,17 +15,16 @@ Violen-Hub was created on Sept 4 It was created by Hippoppo#0001, Violen-Hub Is 
 
 ### Why to chose Violen hub?
 > Violen hub is an  hub where you scripts are paid and free. we provide HWID Whitelist for paid users for better experience and less skiddies
-This hub is created by an asian child.
+This hub It has alot of features to use on.
 
-### About me?
-> Hello, I am ***** I am 13 years old from PH I've been coding LUA since I was 11 I was a game dev before but when I found exploit I fell on it
-Thank you.
-
-
+## Payment Method:
+- Robux | Giftcard 10$
+- Robux Gamepass | 1143 Robux
+- Discord Nitro | 10$ Classic
 
 ### How to buy Violen hub?:
-DM: Hippoppo#0001
-No discord server I am still making it
-Script:
+- DM: Hippoppo#0001
+- No discord server I am still making it
+- Script:
 - Legacy Version```loadstring(Game:HttpGet("https://raw.githubusercontent.com/F3XS/KenShity/main/KenShityDestroyer.lua"))()```
 - New Version ```loadstring(Game:HttpGet("https://raw.githubusercontent.com/F3XS/KenShity/main/ViolenHubNew"))()```
